@@ -1,0 +1,17 @@
+ViewModelTest
+when Register Should Not Null and Return Success
+when Register Network Error Should Return Error
+when Login Should Not Null and Return Success
+when Login Network Error Should Return Error
+when addStory Should Not Null and Return Success
+when addStory Network Error Should Return Error
+when getMapStories Should Not Null and Return Success
+when getMapStories Network Error Should Return Error
+when getStories Should Not Null and Return Success
+
+RepositoryTest
+when register is Success
+when login is Success
+when getStory success
+when getMapStory success
+when addStory success
